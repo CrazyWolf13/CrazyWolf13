@@ -1,7 +1,3 @@
-Here's the updated `README.md`, now with separate sections for scripting and programming:
-
----
-
 # Hi, I'm Tobias! 👋
 
 Tech-focused student currently pursuing an apprenticeship in IT as Platform Developer in Switzerland 🇨🇭, passionate about system administration, Linux, and all things Homelab! 🖥️❤️ I love customization and tweaking my setups to make them unique and efficient. I'm also a **huge fan of Proxmox** – it's an awesome virtualization platform, and I have really good knowledge of it! If you like customization too, feel free to check out my custom PowerShell profile [here](https://github.com/CrazyWolf13/unix-pwsh). 🚀
