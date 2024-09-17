@@ -102,7 +102,7 @@ I primarily use these tools for coding, editing, and writing documentation, with
 
 ## 📈 My Github Stats
 
-[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight)
 
 ---
 
