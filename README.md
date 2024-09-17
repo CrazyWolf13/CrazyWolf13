@@ -111,7 +111,3 @@ I primarily use these tools for coding, editing, and writing documentation, with
 ---
 
 Feel free to reach out if you have any questions or similar interests in Homelab, Linux, Proxmox, customization, or system administration!
-
----
-
-Now, scripting and programming are separated into distinct sections to clearly highlight the tools you use for each type of task!
