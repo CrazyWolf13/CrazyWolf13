@@ -14,7 +14,7 @@ I enjoy working with various tools and platforms across different domains:
 
 I frequently use scripting languages to automate system tasks and processes:
 
-![Scripting](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,bash,powershell,batch)
+![Scripting](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,batch)
 
 ---
 
