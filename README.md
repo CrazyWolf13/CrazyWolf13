@@ -66,11 +66,11 @@ I use tools like Insomnia for API testing and development:
 
 ---
 
-## 🌐 CMS Platforms
+## 🌐 WebDev
 
 I have worked with WordPress for building and managing websites:
 
-[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+[![WebDev](https://skillicons.dev/icons?i=wordpress,Divi)](https://skillicons.dev)
 
 ---
 
