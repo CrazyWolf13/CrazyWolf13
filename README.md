@@ -14,7 +14,7 @@ I enjoy working with various tools and platforms across different domains:
 
 I frequently use scripting languages to automate system tasks and processes:
 
-![Scripting](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,batch)
+![Scripting](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell)
 
 ---
 
@@ -22,7 +22,7 @@ I frequently use scripting languages to automate system tasks and processes:
 
 When it comes to building more complex applications and services, these are my go-to programming languages and frameworks:
 
-[![Programming](https://skillicons.dev/icons?i=python,fastapi,flask)](https://skillicons.dev)
+![Programming](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,flask)
 
 ---
 
@@ -30,7 +30,7 @@ When it comes to building more complex applications and services, these are my g
 
 I’ve worked with a variety of operating systems, from Linux distros to macOS and Windows. I’m always exploring new ways to optimize and customize my environment across these platforms:
 
-[![My OS](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,arch,bsd,apple,android,raspberrypi,kali)](https://skillicons.dev)
+![My OS](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu,arch,bsd,apple,android,raspberrypi,kali)
 
 ---
 
@@ -38,7 +38,7 @@ I’ve worked with a variety of operating systems, from Linux distros to macOS a
 
 I love monitoring my Homelab and other systems with the following tools to ensure everything is running smoothly:
 
-[![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus,influxdb,graylog,elasticsearch)](https://skillicons.dev)
+![Monitoring](https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,influxdb,graylog,elasticsearch)
 
 ---
 
@@ -46,7 +46,7 @@ I love monitoring my Homelab and other systems with the following tools to ensur
 
 I'm proficient with Git and GitHub for version control, collaboration, and managing projects:
 
-[![GitHub](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+![Github](https://go-skill-icons.vercel.app/api/icons?i=git,github)
 
 ---
 
@@ -54,7 +54,7 @@ I'm proficient with Git and GitHub for version control, collaboration, and manag
 
 I have experience with databases, particularly SQL-based systems:
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite)
 
 ---
 
@@ -62,7 +62,7 @@ I have experience with databases, particularly SQL-based systems:
 
 I use tools like Insomnia for API testing and development:
 
-[![Dev Tools](https://skillicons.dev/icons?i=insomnia,Postman)](https://skillicons.dev)
+![Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=insomnia,Postman)
 
 ---
 
@@ -70,7 +70,7 @@ I use tools like Insomnia for API testing and development:
 
 I have worked with WordPress for building and managing websites:
 
-[![WebDev](https://skillicons.dev/icons?i=wordpress,Divi,Figma)](https://skillicons.dev)
+![WebDev](https://go-skill-icons.vercel.app/api/icons?i=wordpress,Divi,Figma)
 
 ---
 
@@ -78,7 +78,7 @@ I have worked with WordPress for building and managing websites:
 
 I like experimenting with cloud services, and I use Cloudflare for DNS management and AWS for various projects:
 
-[![Cloud](https://skillicons.dev/icons?i=cloudflare,aws)](https://skillicons.dev)
+![Cloud](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,aws)
 
 ---
 
@@ -86,7 +86,7 @@ I like experimenting with cloud services, and I use Cloudflare for DNS managemen
 
 I primarily use these tools for coding, editing, and writing documentation, with a focus on keeping things organized and streamlined:
 
-[![Tools](https://skillicons.dev/icons?i=vscode,markdown,mermaid,obsidian,figma)](https://skillicons.dev)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,markdown,mermaid,obsidian,figma)
 
 ---
 
