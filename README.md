@@ -105,6 +105,8 @@ I'm particular about the shell environments I use. Here's a look at my favorites
 - **Windows:** I love using **Windows Terminal**, as it provides a powerful and customizable environment for PowerShell, CMD, and WSL.
 - **Linux:** I'm still searching for the perfect shell setup on Linux, but I enjoy experimenting with **Bash**, **Zsh**, and **Fish**.
 
+![Shells](https://go-skill-icons.vercel.app/api/icons?i=terminal)
+
 ---
 
 <details>
