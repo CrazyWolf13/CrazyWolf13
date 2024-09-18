@@ -110,7 +110,9 @@ I'm particular about the shell environments I use. Here's a look at my favorites
 ---
 
 <details>
-  <summary>📬 Contact</summary>
+ <summary>
+
+  ## 📬 Contact</summary>
   You can reach me via Matrix: `@crazywolf13:matrix.org`  
   <br>
   Or connect with me on LinkedIn:  
