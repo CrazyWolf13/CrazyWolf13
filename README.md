@@ -62,7 +62,7 @@ I have experience with databases, particularly SQL-based systems:
 
 I use tools like Insomnia for API testing and development:
 
-[![Dev Tools](https://skillicons.dev/icons?i=insomnia)](https://skillicons.dev)
+[![Dev Tools](https://skillicons.dev/icons?i=insomnia,Postman)](https://skillicons.dev)
 
 ---
 
