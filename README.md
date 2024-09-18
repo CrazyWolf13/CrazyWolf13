@@ -62,7 +62,7 @@ I have experience with databases, particularly SQL-based systems:
 
 I use tools like Insomnia for API testing and development:
 
-![Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=insomnia,Postman)
+![Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=insomnia,postman)
 
 ---
 
@@ -70,7 +70,7 @@ I use tools like Insomnia for API testing and development:
 
 I have worked with WordPress for building and managing websites:
 
-![WebDev](https://go-skill-icons.vercel.app/api/icons?i=wordpress,Divi,Figma)
+![WebDev](https://go-skill-icons.vercel.app/api/icons?i=wordpress,divi,figma)
 
 ---
 
