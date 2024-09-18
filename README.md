@@ -92,9 +92,9 @@ I primarily use these tools for coding, editing, and writing documentation, with
 
 ## 🐳 Containers & Virtualization
 
-I enjoy working with Docker for containerization and Proxmox for virtualization. **Proxmox** is one of my favorite platforms, allowing me to efficiently manage my virtual machines and containers in a homelab setup:
+I enjoy working with Docker for containerization and Proxmox for virtualization. **Proxmox** is one of my favorite platforms, allowing me to efficiently manage my virtual machines and Linux-Containers in a homelab setup:
 
-![Containers](https://skillicons.dev/icons?i=docker,proxmox)
+![Containers](https://skillicons.dev/icons?i=docker,lxc,proxmox)
 
 ---
 
