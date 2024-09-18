@@ -86,7 +86,7 @@ I like experimenting with cloud services, and I use Cloudflare for DNS managemen
 
 I primarily use these tools for coding, editing, and writing documentation, with a focus on keeping things organized and streamlined:
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,markdown,mermaid,obsidian,figma)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,markdown,mermaid,obsidian)
 
 ---
 
