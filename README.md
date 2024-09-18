@@ -38,7 +38,7 @@ I’ve worked with a variety of operating systems, from Linux distros to macOS a
 
 I love monitoring my Homelab and other systems with the following tools to ensure everything is running smoothly:
 
-![Monitoring](https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,influxdb,graylog,elasticsearch)
+![Monitoring](https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,influxdb,elasticsearch)
 
 ---
 
