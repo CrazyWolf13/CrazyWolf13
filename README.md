@@ -70,7 +70,7 @@ I use tools like Insomnia for API testing and development:
 
 I have worked with WordPress for building and managing websites:
 
-[![WebDev](https://skillicons.dev/icons?i=wordpress,Divi)](https://skillicons.dev)
+[![WebDev](https://skillicons.dev/icons?i=wordpress,Divi,Figma)](https://skillicons.dev)
 
 ---
 
