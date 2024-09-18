@@ -30,7 +30,7 @@ When it comes to building more complex applications and services, these are my g
 
 I’ve worked with a variety of operating systems, from Linux distros to macOS and Windows. I’m always exploring new ways to optimize and customize my environment across these platforms:
 
-[![My OS](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,arch,bsd,apple,android,raspberrypi)](https://skillicons.dev)
+[![My OS](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,arch,bsd,apple,android,raspberrypi,kali)](https://skillicons.dev)
 
 ---
 
