@@ -90,10 +90,25 @@ I primarily use these tools for coding, editing, and writing documentation, with
 
 ---
 
+## 🐳 Containers & Virtualization
+
+I enjoy working with Docker for containerization and Proxmox for virtualization. **Proxmox** is one of my favorite platforms, allowing me to efficiently manage my virtual machines and containers in a homelab setup:
+
+![Containers](https://skillicons.dev/icons?i=docker,proxmox)
+
+---
+
+## 🐚 Favorite Shells
+
+I'm particular about the shell environments I use. Here's a look at my favorites on different platforms:
+
+- **Windows:** I love using **Windows Terminal**, as it provides a powerful and customizable environment for PowerShell, CMD, and WSL.
+- **Linux:** I'm still searching for the perfect shell setup on Linux, but I enjoy experimenting with **Bash**, **Zsh**, and **Fish**.
+
+---
+
 <details>
-  <summary>
-    
-  ## 📬 Contact</summary>
+  <summary>📬 Contact</summary>
   You can reach me via Matrix: `@crazywolf13:matrix.org`  
   <br>
   Or connect with me on LinkedIn:  
