@@ -6,11 +6,6 @@ Tech-focused student currently pursuing an apprenticeship in IT as Platform Deve
 
 ## 🔧 Tech Stack
 
-I enjoy working with various tools and platforms across different domains:
-
----
-
-
 ### 💻 Programming and Scripting
 
 When it comes to building more complex applications and services, these are my go-to programming languages and frameworks, I also love automating tasks, so I included my favourite scripting languages.
