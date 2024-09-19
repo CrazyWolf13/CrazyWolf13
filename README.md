@@ -10,19 +10,12 @@ I enjoy working with various tools and platforms across different domains:
 
 ---
 
-### 🛠️ Scripting
 
-I frequently use scripting languages to automate system tasks and processes:
+### 💻 Programming and Scripting
 
-![Scripting](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell)
+When it comes to building more complex applications and services, these are my go-to programming languages and frameworks, I also love automating tasks, so I included my favourite scripting languages.
 
----
-
-### 💻 Programming
-
-When it comes to building more complex applications and services, these are my go-to programming languages and frameworks:
-
-![Programming](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,flask)
+![Programming](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,python,fastapi,flask)
 
 ---
 
@@ -58,14 +51,6 @@ I have experience with databases, particularly SQL-based systems:
 
 ---
 
-## 🧪 API Testing & Dev Tools
-
-I use tools like Insomnia for API testing and development:
-
-![Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=insomnia,postman)
-
----
-
 ## 🌐 WebDev
 
 I have worked with WordPress for building and managing websites:
@@ -78,15 +63,17 @@ I have worked with WordPress for building and managing websites:
 
 I like experimenting with cloud services, and I use Cloudflare for DNS management and AWS for various projects:
 
-![Cloud](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,aws)
+As my Mail Provier I'm happily using Proton :)
+
+![Cloud](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,aws,proton)
 
 ---
 
 ## 🛠️ Tools & Editors
 
-I primarily use these tools for coding, editing, and writing documentation, with a focus on keeping things organized and streamlined:
+Here some Tools I enjoy using and primarily use them tools for coding, editing, and writing documentation, with a focus on keeping things organized and streamlined:
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,markdown,mermaid,obsidian)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,markdown,mermaid,obsidian,insomnia,flameshot,firefox,terminal)
 
 ---
 
@@ -95,17 +82,6 @@ I primarily use these tools for coding, editing, and writing documentation, with
 I enjoy working with Docker for containerization and Proxmox for virtualization. **Proxmox** is one of my favorite platforms, allowing me to efficiently manage my virtual machines and Linux-Containers in a homelab setup:
 
 ![Container](https://go-skill-icons.vercel.app/api/icons?i=docker,lxc,proxmox)
-
----
-
-## 🐚 Favorite Shells
-
-I'm particular about the shell environments I use. Here's a look at my favorites on different platforms:
-
-- **Windows:** I love using **Windows Terminal**, as it provides a powerful and customizable environment for PowerShell, CMD, and WSL.
-- **Linux:** I'm still searching for the perfect shell setup on Linux, but I enjoy experimenting with **Bash**, **Zsh**, and **Fish**.
-
-![Shells](https://go-skill-icons.vercel.app/api/icons?i=terminal)
 
 ---
 
