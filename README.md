@@ -32,25 +32,17 @@ I love monitoring my Homelab and other systems with the following tools to ensur
 
 ## 🔗 Version Control
 
-I'm proficient with Git and GitHub for version control, collaboration, and managing projects:
+I'm love to use Git and GitHub for version control, collaboration, and managing projects:
 
 ![Github](https://go-skill-icons.vercel.app/api/icons?i=git,github)
 
 ---
 
-## 💾 Databases
+## 🌐 WebDev & Databases
 
-I have experience with databases, particularly SQL-based systems:
+I have worked with WordPress for building and managing websites, and also have experience working with databases:
 
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite)
-
----
-
-## 🌐 WebDev
-
-I have worked with WordPress for building and managing websites:
-
-![WebDev](https://go-skill-icons.vercel.app/api/icons?i=wordpress,divi,figma)
+![WebDev](https://go-skill-icons.vercel.app/api/icons?i=wordpress,divi,figma,postgres,mysql,sqlite)
 
 ---
 
