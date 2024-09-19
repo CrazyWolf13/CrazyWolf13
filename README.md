@@ -97,9 +97,14 @@ I enjoy working with Docker for containerization and Proxmox for virtualization.
 
 ---
 
-## 📈 My Github Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight)
+<details>
+ <summary>
+
+  ## 📈 My Github Stats</summary>
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight)
+
+</details>
 
 ---
 
