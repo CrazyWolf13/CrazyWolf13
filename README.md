@@ -89,7 +89,10 @@ I enjoy working with Docker for containerization and Proxmox for virtualization.
  <summary>
 
   ## 📈 My Github Stats</summary>
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight)
+  ![](https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyWolf13&theme=tokyonight)
+
+  
 
 </details>
 
