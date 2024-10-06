@@ -8,17 +8,21 @@ Tech-focused student currently pursuing an apprenticeship in IT as Platform Deve
 
 ### 💻 Programming and Scripting
 
-When it comes to building more complex applications and services, these are my go-to programming languages and frameworks, I also love automating tasks, so I included my favourite scripting languages.
+When it comes to building more complex applications and services, these are my go-to programming languages, frameworks and tools, I also love automating tasks, so I included my favourite scripting languages.
 
-![Programming](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,python,fastapi,flask)
+![Programming](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,python,fastapi,flask,git,github)
+
+Here some of my go-to tools I enjoy using on a daily basis.
+
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,markdown,mermaid,obsidian,insomnia,flameshot,firefox,terminal)
 
 ---
 
 ## 🖥️ Operating Systems
 
-I’ve worked with a variety of operating systems, from Linux distros to macOS and Windows. I’m always exploring new ways to optimize and customize my environment across these platforms:
+I’ve worked with a variety of operating systems, from Linux distros to Windows. I’m always exploring new ways to optimize and customize my environment across these platforms:
 
-![My OS](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu,arch,bsd,apple,android,raspberrypi,kali)
+![My OS](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu,arch,bsd,android,raspberrypi)
 
 ---
 
@@ -27,14 +31,6 @@ I’ve worked with a variety of operating systems, from Linux distros to macOS a
 I love monitoring my Homelab and other systems with the following tools to ensure everything is running smoothly:
 
 ![Monitoring](https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,elasticsearch)
-
----
-
-## 🔗 Version Control
-
-I'm love to use Git and GitHub for version control, collaboration, and managing projects:
-
-![Github](https://go-skill-icons.vercel.app/api/icons?i=git,github)
 
 ---
 
@@ -53,14 +49,6 @@ I like experimenting with cloud services, and I use Cloudflare for DNS managemen
 As my Mail Provier I'm happily using Proton :)
 
 ![Cloud](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,aws,proton)
-
----
-
-## 🛠️ Tools & Editors
-
-Here some Tools I enjoy using and primarily use them tools for coding, editing, and writing documentation, with a focus on keeping things organized and streamlined:
-
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,markdown,mermaid,obsidian,insomnia,flameshot,firefox,terminal)
 
 ---
 
