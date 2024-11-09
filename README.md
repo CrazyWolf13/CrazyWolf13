@@ -1,6 +1,6 @@
 # Hi, I'm Tobias! 👋
 
-Tech-focused student currently pursuing an apprenticeship in IT as Platform Developer in Switzerland 🇨🇭, passionate about system administration, Linux, and all things Homelab! 🖥️❤️ I love customization and tweaking my setups to make them unique and efficient. I'm also a **huge fan of Proxmox** – it's an awesome virtualization platform, and I have really good knowledge of it! If you like customization too, feel free to check out my custom PowerShell profile [here](https://github.com/CrazyWolf13/unix-pwsh). 🚀
+Tech-focused student currently pursuing an apprenticeship in IT as Platform Developer in Switzerland 🇨🇭, I'm passionate about system administration, Linux, and everything about Homelab! 🖥️❤️ I love customization and tweaking my setups to make them unique and efficient. I'm also a **huge fan of Proxmox** – it's an awesome virtualization platform, and I have really good knowledge of it! If you like customization too, feel free to check out my custom PowerShell profile [here](https://github.com/CrazyWolf13/unix-pwsh). 🚀
 
 ---
 
@@ -8,7 +8,7 @@ Tech-focused student currently pursuing an apprenticeship in IT as Platform Deve
 
 ### 💻 Programming and Scripting
 
-When it comes to building more complex applications and services, these are my go-to programming languages, frameworks and tools, I also love automating tasks, so I included my favourite scripting languages.
+These are my go-to programming languages, frameworks and tools, I also love automating tasks:
 
 ![Programming](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,python,fastapi,flask,git,github)
 
@@ -20,17 +20,9 @@ Here some of my go-to tools I enjoy using on a daily basis.
 
 ## 🖥️ Operating Systems
 
-I’ve worked with a variety of operating systems, from Linux distros to Windows. I’m always exploring new ways to optimize and customize my environment across these platforms:
+I’ve worked with a lot of operating systems, from Linux distros to Windows:
 
 ![My OS](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu,arch,bsd,android,raspberrypi)
-
----
-
-## 📊 Monitoring & Observability
-
-I love monitoring my Homelab and other systems with the following tools to ensure everything is running smoothly:
-
-![Monitoring](https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,elasticsearch)
 
 ---
 
@@ -54,7 +46,7 @@ As my Mail Provier I'm happily using Proton :)
 
 ## 🐳 Containers & Virtualization
 
-I enjoy working with Docker for containerization and Proxmox for virtualization. **Proxmox** is one of my favorite platforms, allowing me to efficiently manage my virtual machines and Linux-Containers in a homelab setup:
+I enjoy working with Docker for containerization and Proxmox for virtualization. **Proxmox** is one of my favorite platforms, perfect for managing my virtual machines and Linux-Containers:
 
 ![Container](https://go-skill-icons.vercel.app/api/icons?i=docker,lxc,proxmox)
 
@@ -91,4 +83,4 @@ I enjoy working with Docker for containerization and Proxmox for virtualization.
 
 ---
 
-Feel free to reach out if you have any questions or similar interests in Homelab, Linux, Proxmox, customization, or system administration!
+Feel free to reach out if you have any questions!
