@@ -12,10 +12,6 @@ These are my go-to programming languages, frameworks and tools, I also love auto
 
 ![Programming](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,python,fastapi,flask,git,github)
 
-Here some of my go-to tools I enjoy using on a daily basis.
-
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,markdown,mermaid,obsidian,insomnia,flameshot,firefox,terminal)
-
 ---
 
 ## 🖥️ Operating Systems
