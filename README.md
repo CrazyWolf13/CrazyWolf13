@@ -34,7 +34,7 @@ I have worked with WordPress for building and managing websites, and also have e
 
 I like experimenting with cloud services, and I use Cloudflare for DNS management and AWS for various projects:
 
-As my Mail Provier I'm happily using Proton :)
+As my Mail Provider I'm happily using Proton :)
 
 ![Cloud](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,aws,proton)
 
