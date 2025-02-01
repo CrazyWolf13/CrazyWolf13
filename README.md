@@ -8,9 +8,9 @@ Tech-focused student currently pursuing an apprenticeship in IT as Platform Deve
 
 ### 💻 Programming and Scripting
 
-These are my go-to programming languages, frameworks and tools, I also love automating tasks:
+These are my go-to programming languages, frameworks and tools, I also have some experience working with databases and wordpress, btw. I also love automating tasks:
 
-![Programming](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,python,fastapi,flask,git,github)
+![Programming](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,python,fastapi,flask,mysql,wordpress,git,github)
 
 ---
 
@@ -19,14 +19,6 @@ These are my go-to programming languages, frameworks and tools, I also love auto
 I’ve worked with a lot of operating systems, from Linux distros to Windows:
 
 ![My OS](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu,nixos,bsd,android,raspberrypi)
-
----
-
-## 🌐 WebDev & Databases
-
-I have worked with WordPress for building and managing websites, and also have experience working with databases:
-
-![WebDev](https://go-skill-icons.vercel.app/api/icons?i=wordpress,divi,figma,postgres,mysql,sqlite)
 
 ---
 
