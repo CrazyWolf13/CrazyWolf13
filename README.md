@@ -18,7 +18,7 @@ These are my go-to programming languages, frameworks and tools, I also have some
 
 I’ve worked with a lot of operating systems, from Linux distros to Windows:
 
-![My OS](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu,nixos,bsd,android,raspberrypi)
+![My OS](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu,nixos,android,raspberrypi)
 
 ---
 
