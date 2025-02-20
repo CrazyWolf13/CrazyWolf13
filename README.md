@@ -24,7 +24,7 @@ I’ve worked with a lot of operating systems, from Linux distros to Windows:
 
 ## ☁️ Cloud Platforms
 
-I like experimenting with cloud services, and I use Cloudflare for DNS management and AWS for various projects:
+I like experimenting with cloud services, and I use Cloudflare for Domain management and AWS for various little side-projects:
 
 As my Mail Provider I'm happily using Proton :)
 
