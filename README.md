@@ -14,14 +14,6 @@ These are my go-to programming languages, frameworks and tools, I also have some
 
 ---
 
-## 🖥️ Operating Systems
-
-I’ve worked with a lot of operating systems, from Linux distros to Windows:
-
-![My OS](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu,nixos,android,raspberrypi)
-
----
-
 ## ☁️ Cloud Platforms
 
 I like experimenting with cloud services, and I use Cloudflare for Domain management and AWS for various little side-projects:
@@ -29,14 +21,6 @@ I like experimenting with cloud services, and I use Cloudflare for Domain manage
 As my Mail Provider I'm happily using Proton :)
 
 ![Cloud](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,aws,proton)
-
----
-
-## 🐳 Containers & Virtualization
-
-I enjoy working with Docker for containerization and Proxmox for virtualization. **Proxmox** is one of my favorite platforms, perfect for managing my virtual machines and Linux-Containers:
-
-![Container](https://go-skill-icons.vercel.app/api/icons?i=docker,lxc,proxmox)
 
 ---
 
