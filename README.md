@@ -31,7 +31,7 @@ As my Mail Provider I'm happily using Proton :)
   You can reach me via the following:
   - Matrix: `@crazywolf13:matrix.org`
   - E-Mail: `mail@crazywolf.dev`
-  - Discord: `crazywolf13` 
+  - Discord: `@crazywolf13` 
   <br>
   
 </details>
