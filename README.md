@@ -10,7 +10,7 @@ Tech-focused student currently pursuing an apprenticeship in IT as Platform Deve
 
 These are my go-to programming languages, frameworks and tools, I also have some experience working with databases and wordpress, btw. I also love automating tasks:
 
-![Programming](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,python,fastapi,flask,mysql,wordpress,git,github)
+![Programming](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,python,fastapi,flask,mysql,git,github)
 
 ---
 
