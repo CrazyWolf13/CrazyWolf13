@@ -30,8 +30,7 @@ As my Mail Provider I'm happily using Proton :)
   ## 📬 Contact</summary>
   You can reach me via Matrix: `@crazywolf13:matrix.org`  
   <br>
-  Or connect with me on LinkedIn:  
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tobias-meier-5597b6314/)
+  
 </details>
 
 ---
