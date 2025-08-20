@@ -16,7 +16,7 @@ These are my go-to programming languages, frameworks and tools, I also have some
 
 ## ☁️ Cloud Platforms
 
-I like experimenting with cloud services, and I use Cloudflare for Domain management and AWS for various little side-projects:
+I like experimenting with cloud services, use Cloudflare for Domain management and AWS for various little side-projects:
 
 As my Mail Provider I'm happily using Proton :)
 
