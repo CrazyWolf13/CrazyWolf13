@@ -1,6 +1,6 @@
 # Hi, I'm Tobias! 👋
 
-Tech-focused student currently pursuing an apprenticeship in IT as Platform Developer in Switzerland 🇨🇭, I'm passionate about system administration, Linux, and everything about Homelab! 🖥️❤️ I'm also a **huge fan of Proxmox** – it's an awesome virtualization platform, and I have really good knowledge of it!
+Tech-focused student currently pursuing an apprenticeship in IT as Platform Developer in Switzerland 🇨🇭, I'm passionate about system administration, Linux, and everything about Homelab! 🖥️❤️ I'm also a **huge fan of Proxmox** – it's an awesome virtualization platform.
 
 ---
 
