@@ -50,7 +50,7 @@ As my Mail Provider I'm happily using Proton :)
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyWolf13&theme=tokyonight" />
   </p>
   
-  <table>
+  <table align="center">
     <tr>
       <td>
         <img src="https://github.com/CrazyWolf13/metrics/blob/master/github-metrics.svg">
