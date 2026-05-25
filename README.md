@@ -43,10 +43,15 @@ As my Mail Provider I'm happily using Proton :)
  <summary>
 
   ## 📈 My Github Stats</summary>
-  ![](https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyWolf13&theme=tokyonight)
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight">
+  </p>
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyWolf13&theme=tokyonight">
+  </p>
 
-
+  
   <table>
     <tr>
       <td>
@@ -67,7 +72,9 @@ As my Mail Provider I'm happily using Proton :)
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CrazyWolf13.CrazyWolf13)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CrazyWolf13.CrazyWolf13" alt="Visitor Badge">
+</p>
 
 ---
 
