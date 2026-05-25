@@ -45,12 +45,17 @@ As my Mail Provider I'm happily using Proton :)
   ## 📈 My Github Stats</summary>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight"
+      onerror="this.style.display='none';"
+    >
   </p>
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyWolf13&theme=tokyonight">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyWolf13&theme=tokyonight"
+      onerror="this.style.display='none';"
+    >
   </p>
-
   
   <table>
     <tr>
