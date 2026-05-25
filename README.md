@@ -44,7 +44,7 @@ As my Mail Provider I'm happily using Proton :)
 
   ## 📈 My Github Stats</summary>
   
-  ![](https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight)>
+  ![](https://github-readme-stats.vercel.app/api?username=CrazyWolf13&show_icons=true&locale=en&theme=tokyonight)
 
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyWolf13&theme=tokyonight" />
