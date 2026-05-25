@@ -52,6 +52,8 @@ As my Mail Provider I'm happily using Proton :)
   ![](https://github.com/CrazyWolf13/github-stats/blob/generated/languages.svg#gh-light-mode-only) <br>
   [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
+  ![](https://github.com/CrazyWolf13/metrics/blob/master/github-metrics.svg) <br>
+
   
 
 </details>
