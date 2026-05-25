@@ -47,6 +47,12 @@ As my Mail Provider I'm happily using Proton :)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyWolf13&theme=tokyonight)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrazyWolf13&theme=tokyonight)
 
+  ![](https://github.com/CrazyWolf13/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+  ![](https://github.com/CrazyWolf13/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+  ![](https://github.com/CrazyWolf13/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+  ![](https://github.com/CrazyWolf13/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+  [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
   
 
 </details>
