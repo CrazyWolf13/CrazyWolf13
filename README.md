@@ -48,8 +48,8 @@ As my Mail Provider I'm happily using Proton :)
 
   |  |  |
   |--|--|
-  | ![](https://github.com/CrazyWolf13/metrics/blob/master/github-metrics.svg) | ![](https://github.com/CrazyWolf13/github-stats/blob/generated/overview.svg#gh-dark-mode-only) ![](https://github.com/CrazyWolf13/github-stats/blob/generated/overview.svg#gh-light-mode-only) |
-  | | ![](https://github.com/CrazyWolf13/github-stats/blob/generated/languages.svg#gh-dark-mode-only) ![](https://github.com/CrazyWolf13/github-stats/blob/generated/languages.svg#gh-light-mode-only) |
+  | ![](https://github.com/CrazyWolf13/metrics/blob/master/github-metrics.svg) | ![](https://github.com/CrazyWolf13/github-stats/blob/generated/overview.svg#gh-dark-mode-only) ![](https://github.com/CrazyWolf13/github-stats/blob/generated/overview.svg#gh-light-mode-only) <br> ![](https://github.com/CrazyWolf13/github-stats/blob/generated/languages.svg#gh-dark-mode-only) ![](https://github.com/CrazyWolf13/github-stats/blob/generated/languages.svg#gh-light-mode-only) |
+  
   <br>
   
 
